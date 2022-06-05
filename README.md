@@ -25,3 +25,15 @@ a and b are constants which are called the coefficients.
 
 # Excel Analysis
 ![](image/excelresult.PNG)
+![](image/result.PNG)
+
+
+# R Analysis
+![](image\Rplot.png)
+![](image\label.png)
+![](image\11.png)
+
+# After scaling
+![](image\afterescal.png)
+![](image\aVSp.png)
+![](image\rpredict.png)
