@@ -29,11 +29,11 @@ a and b are constants which are called the coefficients.
 
 
 # R Analysis
-![](image\Rplot.png)
-![](image\label.png)
-![](image\11.png)
+![](image/Rplot.png)
+![](image/label.png)
+![](image/11.png)
 
 # After scaling
-![](image\afterescal.png)
-![](image\aVSp.png)
-![](image\rpredict.png)
+![](image/afterescal.png)
+![](image/aVSp.png)
+![](image/rpredict.png)
