@@ -22,3 +22,6 @@ y is the response variable.
 x is the predictor variable.
 
 a and b are constants which are called the coefficients.
+
+# Excel Analysis
+![](image/excelresult.PNG)
